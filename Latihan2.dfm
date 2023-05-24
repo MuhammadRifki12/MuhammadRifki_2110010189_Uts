@@ -4,7 +4,7 @@ object Form3: TForm3
   Width = 545
   Height = 424
   Caption = 'LATIHAN MANDIRI OPERATOR'
-  Color = clBtnFace
+  Color = clLime
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
@@ -71,10 +71,10 @@ object Form3: TForm3
     Width = 137
     Height = 65
     Caption = 'PROSES SEMUA'
-    Font.Charset = DEFAULT_CHARSET
+    Font.Charset = ANSI_CHARSET
     Font.Color = clWindowText
     Font.Height = -16
-    Font.Name = 'Tahoma'
+    Font.Name = 'Times New Roman'
     Font.Style = [fsBold]
     ParentFont = False
     TabOrder = 2

@@ -4,7 +4,7 @@ object Form9: TForm9
   Width = 1044
   Height = 640
   Caption = 'FORM TAMBAH JADWAL'
-  Color = clBtnFace
+  Color = clLime
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

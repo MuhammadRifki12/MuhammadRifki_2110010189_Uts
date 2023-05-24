@@ -4,7 +4,7 @@ object Form7: TForm7
   Width = 826
   Height = 583
   Caption = 'GRAFIK STRINGGRID REVISI'
-  Color = clBtnFace
+  Color = clActiveCaption
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

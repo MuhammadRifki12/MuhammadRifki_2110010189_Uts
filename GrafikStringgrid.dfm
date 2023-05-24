@@ -4,7 +4,7 @@ object Form6: TForm6
   Width = 834
   Height = 577
   Caption = 'GRAFIK STRINGGRID'
-  Color = clBtnFace
+  Color = clRed
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

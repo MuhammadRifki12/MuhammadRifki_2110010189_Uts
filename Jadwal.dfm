@@ -4,7 +4,7 @@ object Form8: TForm8
   Width = 1089
   Height = 638
   Caption = 'DATABASE'
-  Color = clBtnFace
+  Color = clMenuHighlight
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

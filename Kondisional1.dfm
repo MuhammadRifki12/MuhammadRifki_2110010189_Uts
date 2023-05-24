@@ -4,7 +4,7 @@ object Form4: TForm4
   Width = 657
   Height = 413
   Caption = 'LATIHAN 02 KONDISIONAL'
-  Color = clBtnFace
+  Color = clPurple
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
@@ -83,7 +83,7 @@ object Form4: TForm4
     Top = 48
     Width = 497
     Height = 57
-    Caption = 'Contoh Kondisional'
+    Caption = 'CONTOH KONDISIONAL'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -16

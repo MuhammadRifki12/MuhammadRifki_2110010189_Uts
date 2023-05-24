@@ -4,7 +4,7 @@ object Form5: TForm5
   Width = 553
   Height = 618
   Caption = 'KONDISIONAL 2'
-  Color = clBtnFace
+  Color = clBlue
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
