@@ -4,7 +4,7 @@ object Form2: TForm2
   Width = 454
   Height = 242
   Caption = 'LATIHAN 1'
-  Color = clBtnFace
+  Color = clAqua
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
@@ -52,7 +52,7 @@ object Form2: TForm2
     Font.Style = []
     ParentFont = False
   end
-  object Edit1: TEdit
+  object Et1: TEdit
     Left = 128
     Top = 48
     Width = 121
@@ -65,7 +65,7 @@ object Form2: TForm2
     ParentFont = False
     TabOrder = 0
   end
-  object Edit2: TEdit
+  object Et2: TEdit
     Left = 128
     Top = 80
     Width = 121
@@ -78,7 +78,7 @@ object Form2: TForm2
     ParentFont = False
     TabOrder = 1
   end
-  object Edit3: TEdit
+  object Et3: TEdit
     Left = 128
     Top = 120
     Width = 121
